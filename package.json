@@ -21,7 +21,8 @@
     "@angular/router": "~11.2.14",
     "@ngneat/tailwind": "^7.0.3",
     "@ngrx/store": "^13.0.2",
-    "rxjs": "~6.6.0",
+    "install-peerdeps": "^3.0.3",
+    "rxjs": "^6.6.7",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.3"
   },
